@@ -58,7 +58,6 @@
   -moz-backface-visibility: hidden;
 }
 
-/*
 .share-button__text {
   margin: 0;
   line-height: 42px;
@@ -67,6 +66,7 @@
   color: #b6b6b6;
 }
 
+/*
 .share__link {
   position: relative;
   top: 40px;
