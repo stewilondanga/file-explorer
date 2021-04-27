@@ -66,7 +66,6 @@
   color: #b6b6b6;
 }
 
-/*
 .share__link {
   position: relative;
   top: 40px;
@@ -79,6 +78,7 @@
   transition: top .5s cubic-bezier(0.175, 0.885, 0.32, 1.275);
 }
 
+/*
 .share-button:hover .share-button__front {
   transform: rotateX(90deg);
 }
