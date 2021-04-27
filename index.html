@@ -59,6 +59,14 @@
     </div>
   </div>
 
+  <div id="vue">
+    <folder-contents
+      v-for="folder in homeFolders"
+      :folder="folder"
+      :children-of="childrenOf"
+    ></folder-contents>
+  </div>
+
   <section id="contact">
     <div class="overlay">
       <div class="containers">
